@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/DELL/Documents/Projects/SeleniumSDLC/src/test/java/dev/innomo/Tests/SeleniumTest.java">
+        <classes>
+            <class name="dev.innomo.Tests.SeleniumTest">
+                <methods>
+                    <include name="validateOnlineProductsTitles"/>
+                    <include name="validateFirstFormalShoes"/>
+                    <include name="validateFirstSportsShoes"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
